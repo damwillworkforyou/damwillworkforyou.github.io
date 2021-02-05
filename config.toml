@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Twisted Lego"
+theme = "yinyang"
+
+[params]
+headTitle = "Twisted Lego"
